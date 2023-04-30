@@ -1,3 +1,3 @@
-module github.com/pinguin-frosch/monkey
+module monkey
 
 go 1.20
